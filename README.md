@@ -1,0 +1,1 @@
+# Gerador-de-graficos-municipais-Covid-19-Litoral-Norte-RS
